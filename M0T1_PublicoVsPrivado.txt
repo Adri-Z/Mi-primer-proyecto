@@ -1,0 +1,9 @@
+Lo que ocurrió cuando intenté acceder a mis dos repositorios desde una ventana incognito, fue lo siguiente:
+
+- Una liga se abrió y la otra otra no.
+- La correspondiente al repositorio privado no me la mostraba el navegador. 
+- La privada sacaba una foto marcando un error.
+
+Hipótesis:  Lo que ocurre es que cuando yo modifico los permisos de mi repositorio,
+ al igual que al moldificar los permisos en un archivo de texto,  
+ bloqueo o desbloqueo a las personas que yo quiera para que puedan mirar el contenido.
